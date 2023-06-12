@@ -24,7 +24,7 @@
 20. TF-IDF
 21. word2vec implementation using gensim library
 22. ML based approaches for Text Classification
-    (1) Using Bag of words
-    (2) Using n-grams
-    (3) Using TfIdf
-    (4) Using Word2Vec
+    (1). Using Bag of words
+    (2). Using n-grams
+    (3). Using TfIdf
+    (4). Using Word2Vec
