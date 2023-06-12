@@ -1,4 +1,4 @@
-# Natural-Language-Processing: Here I have written the codes of following NLP concepts with illustrations:
+# Here I have written the codes of following NLP concepts with illustrations:
 
 1. Removing HTML Tags
 2. Unicode Normalization
